@@ -1,3 +1,4 @@
+#dataset located here: https://www.kaggle.com/datasets/asaniczka/mountain-climbing-accidents-dataset
 import pandas as pd
 
 df = pd.read_csv('deaths_on_eight-thousanders.csv', parse_dates=['Date'])
